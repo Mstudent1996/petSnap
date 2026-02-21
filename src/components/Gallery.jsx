@@ -3,12 +3,12 @@
 import { useState } from "react";
 
 const photos = [
-  { id: 1, src: "../../public/img/cat1.jpg", caption: "Playful cat" },
-  { id: 2, src: "../../public/img/dog1.jpg", caption: "Sweet puppy" },
-  { id: 3, src: "../../public/img/rabbit1.jpg", caption: "Happy Bunny" },
-  { id: 4, src: "../../public/img/cat2.jpg", caption: "Sweet kitten" },
-  { id: 5, src: "../../public/img/dog2.jpg", caption: "Loyal dog" },
-  { id: 6, src: "../../public/img/dog3.jpg", caption: "Curious dog" },
+  { id: 1, src: "../../img/cat1.jpg", caption: "Playful cat" },
+  { id: 2, src: "../../img/dog1.jpg", caption: "Sweet puppy" },
+  { id: 3, src: "../../img/rabbit1.jpg", caption: "Happy Bunny" },
+  { id: 4, src: "../../img/cat2.jpg", caption: "Sweet kitten" },
+  { id: 5, src: "../../img/dog2.jpg", caption: "Loyal dog" },
+  { id: 6, src: "../../img/dog3.jpg", caption: "Curious dog" },
 ];
 
 export default function Gallery() {

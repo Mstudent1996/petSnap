@@ -6,7 +6,7 @@ export default function Features() {
             <div className="mb-6 bg-rose-400 p-4 rounded-lg text-white flex flex-col items-center">
                 <h3 className="text-xl font-semibold mb-2">Easy Uploads</h3>
                 <img
-                    src="../../public/img/upload.png"
+                    src="../../img/upload.png"
                     alt="easy uploads illustration"
                     className="rounded w-100"
                 />
@@ -17,7 +17,7 @@ export default function Features() {
             <div className="mb-6 bg-indigo-500 p-4 rounded-lg text-white flex flex-col items-center">
                 <h3 className="text-xl font-semibold mb-2">Secure Storage</h3>
                 <img
-                    src="../../public/img/storage.png"
+                    src="../../img/storage.png"
                     alt="secury storage illustraition"
                     className="rounded w-100"
                 />
@@ -26,7 +26,7 @@ export default function Features() {
             <div className="mb-6 bg-purple-500 p-4 rounded-lg text-white flex flex-col items-center">
                 <h3 className="text-xl font-semibold mb-2">Community Sharing</h3>
                 <img
-                    src="../../public/img/community.png"
+                    src="../../img/community.png"
                     alt="community sharing illustration"
                     className="rounded w-100"
                 />

@@ -111,7 +111,7 @@ export default function ContactForm() {
         </form>
 
         <img
-          src="../../public/img/dog3.jpg"
+          src="../../img/dog3.jpg"
           alt="Cute dog"
           className="max-w-md rounded-lg shadow-md object-cover"
         />
